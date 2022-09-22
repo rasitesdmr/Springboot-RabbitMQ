@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  rabbitMQ:
+    container_name: rabbitContainer
+    image: rabbitmq:3-management
+    restart: always
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+     - RABBITMQ_DEFAULT_PASS=rasitesdmr
+     - RABBITMQ_DEFAULT_USER=rasitesdmr
