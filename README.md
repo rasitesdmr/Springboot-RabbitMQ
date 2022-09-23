@@ -45,3 +45,4 @@ docker-compose down -v
 * https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html
 * https://www.cloudamqp.com/blog/part3-rabbitmq-for-beginners_the-management-interface.html
 * https://www.cloudamqp.com/blog/part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html
+* https://www.gencayyildiz.com/blog/rabbitmq-nedir-ne-amaca-hizmet-etmektedir/
