@@ -1,6 +1,6 @@
 # 🎯 RabbitMQ ?
 
-<img src="">
+<img src="https://github.com/rasitesdmr/Springboot-RabbitMQ/blob/master/image/rb1.png">
 
 ## 📌 docker-compose.yaml
 
@@ -35,7 +35,7 @@ docker-compose down -v
 
 * http://localhost:15672
 
-<img src=" ">
+<img src="https://github.com/rasitesdmr/Springboot-RabbitMQ/blob/master/image/rb2.png">
 
 ## 📌 Articles I Read
 
